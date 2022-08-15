@@ -1,5 +1,5 @@
 # deauth_detector
-This short script uses pyshark library to detect deauthentication packets
+This short script uses pyshark library to detect deauthentication packets while doing live sniffing
 
 Used on Linux OS
 
